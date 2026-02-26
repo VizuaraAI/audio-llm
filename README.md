@@ -1,7 +1,12 @@
 
 # Audio LM Implementation
 
-A modular, simplified implementation of a multimodal LLM inspired by Audio Language Modeling. This codebase fuses an Audio Encoder (Whisper) with an LLM (Sarvam-2B) using a projector.
+<img width="822" height="864" alt="Joint_embedding_model_Sarvam_with_Whisper" src="https://github.com/user-attachments/assets/b780509b-72cc-4503-8be6-7f1e8254539a" />
+
+
+A modular, simplified implementation of a multimodal LLM inspired by Audio Language Modeling. This codebase fuses an Audio Encoder (Whisper) with an LLM (Sarvam-M) using a projector.
+
+[Huggingface](https://huggingface.co/teamvizuara/Vocal-LLM)
 
 ## Directory Structure
 
